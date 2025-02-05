@@ -1,0 +1,15 @@
+{
+  "title": "Countries and Continents",
+  "loading": "Loading...",
+  "searchPlaceholder": "Search country",
+  "errorLettersOnly": "Only letters are allowed",
+  "errorNoMatch": "No matching country found",
+  "dropdownPlaceholder": "Select continent(s)",
+  "previousPage": "previous",
+  "nextPage": "next",
+  "pageNumber_part1": "page",
+  "pageNumber_part2": "of",
+  "country": "Country",
+  "continent": "Continent",
+  "noSearchResults": "No results found"
+}

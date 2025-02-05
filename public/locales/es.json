@@ -1,0 +1,15 @@
+{
+  "title": "Países y Continentes",
+  "loading": "Cargando...",
+  "searchPlaceholder": "Buscar país",
+  "errorLettersOnly": "Solo se permiten letras",
+  "errorNoMatch": "No se encontró ningún país coincidente",
+  "dropdownPlaceholder": "Seleccionar continente(s)",
+  "previousPage": "anterior",
+  "nextPage": "siguiente",
+  "pageNumber_part1": "página",
+  "pageNumber_part2": "de",
+  "country": "País",
+  "continent": "Continente",
+  "noSearchResults": "No se han encontrado resultados"
+}
